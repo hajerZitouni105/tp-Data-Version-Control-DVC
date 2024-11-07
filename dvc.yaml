@@ -1,0 +1,8 @@
+stages:
+  train_model:
+    cmd: python train_model.py
+    deps:
+    - data.csv
+    - train_model.py
+    outs:
+    - model.joblib
