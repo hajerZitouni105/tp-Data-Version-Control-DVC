@@ -1,4 +1,4 @@
-##Objectif de l'exercice :
+#**Objectif de l'exercice :**
 
 ▸ Installer et configurer DVC dans un projet.
 ▸ Versionner un jeu de données.
